@@ -1,4 +1,4 @@
-![logo](https://github.com/BVishal-Geek/VishalBaskhi/blob/main/Vishal%20Bakshi%20(2).gif)
+![logo](https://github.com/BVishal-Geek/BVishal-Geek/blob/main/Vishal%20Bakshi%20(2).gif)
 <h1 align="center">Hi 👋, I'm VISHAL BAKSHI</h1>
 <h3 align="center">R&D Enthusiast with prior knowledge in Robotics, Machine Learning & Data Science</h3>
 
